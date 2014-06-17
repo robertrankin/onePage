@@ -377,3 +377,9 @@
 		text-align: center;
 		width: 100%;
 	}
+
+
+span.vowel {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(255, 255, 255, 0.2);
+}
